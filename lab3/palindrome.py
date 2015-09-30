@@ -5,5 +5,5 @@ def palindrome(x) :
     return True
   
   
-
+print ""
 
