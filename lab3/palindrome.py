@@ -3,7 +3,9 @@ def palindrome(x) :
         if x[i] != num[i]:
             return False
     return True
-  
-  
 
 
+
+
+
+  
